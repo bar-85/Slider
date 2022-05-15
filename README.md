@@ -1,9 +1,12 @@
 # SLIDER
 
+
 >Prosty SLIDER 
 
 
+
 >Slider można zobaczyć pod adresem: https://bar-85.github.io/slider/
+
 
 
 
