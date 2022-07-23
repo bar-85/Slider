@@ -1,5 +1,4 @@
-# SLIDER
-
+ <h1 align="center"> SLIDER </h1>
 
 >Prosty SLIDER 
 
